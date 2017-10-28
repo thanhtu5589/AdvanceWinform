@@ -1,0 +1,14 @@
+D:\Github\DoAnWinform\DAO\bin\Debug\DAO.dll
+D:\Github\DoAnWinform\DAO\bin\Debug\DAO.pdb
+D:\Github\DoAnWinform\DAO\bin\Debug\DTO.dll
+D:\Github\DoAnWinform\DAO\bin\Debug\DTO.pdb
+D:\Github\DoAnWinform\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Github\DoAnWinform\DAO\obj\Debug\DAO.dll
+D:\Github\DoAnWinform\DAO\obj\Debug\DAO.pdb
+\\Mac\Home\Desktop\DoAnWinform\DAO\bin\Debug\DAO.dll
+\\Mac\Home\Desktop\DoAnWinform\DAO\bin\Debug\DAO.pdb
+\\Mac\Home\Desktop\DoAnWinform\DAO\bin\Debug\DTO.dll
+\\Mac\Home\Desktop\DoAnWinform\DAO\bin\Debug\DTO.pdb
+\\Mac\Home\Desktop\DoAnWinform\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\DoAnWinform\DAO\obj\Debug\DAO.dll
+\\Mac\Home\Desktop\DoAnWinform\DAO\obj\Debug\DAO.pdb
