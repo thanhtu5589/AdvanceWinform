@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace QuanLyLinhKien
 {
-    public partial class frmSoLuong : Form
+    public partial class frmNhapSanPham : Form
     {
-        public frmSoLuong()
+        public frmNhapSanPham()
         {
             InitializeComponent();
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

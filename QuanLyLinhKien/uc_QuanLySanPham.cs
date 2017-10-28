@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace QuanLyLinhKien
 {
-    public partial class uc_PhieuXuatHang : UserControl
+    public partial class uc_QuanLySanPham : UserControl
     {
-        public uc_PhieuXuatHang()
+        public uc_QuanLySanPham()
         {
             InitializeComponent();
+            this.Dock = DockStyle.Fill;
+            this.Size = new Size(1184, 794);
         }
     }
 }

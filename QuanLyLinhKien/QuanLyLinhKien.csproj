@@ -54,11 +54,11 @@
     <Compile Include="FormReport.Designer.cs">
       <DependentUpon>FormReport.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmSoLuong.cs">
+    <Compile Include="frmNhapSanPham.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmSoLuong.Designer.cs">
-      <DependentUpon>frmSoLuong.cs</DependentUpon>
+    <Compile Include="frmNhapSanPham.Designer.cs">
+      <DependentUpon>frmNhapSanPham.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -97,23 +97,17 @@
     <Compile Include="uc_NhanVienKho.Designer.cs">
       <DependentUpon>uc_NhanVienKho.cs</DependentUpon>
     </Compile>
-    <Compile Include="uc_NhanVietBanHangUseButton.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="uc_NhanVietBanHangUseButton.Designer.cs">
-      <DependentUpon>uc_NhanVietBanHangUseButton.cs</DependentUpon>
-    </Compile>
     <Compile Include="uc_PhieuNhapHang.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="uc_PhieuNhapHang.Designer.cs">
       <DependentUpon>uc_PhieuNhapHang.cs</DependentUpon>
     </Compile>
-    <Compile Include="uc_PhieuXuatHang.cs">
+    <Compile Include="uc_QuanLySanPham.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="uc_PhieuXuatHang.Designer.cs">
-      <DependentUpon>uc_PhieuXuatHang.cs</DependentUpon>
+    <Compile Include="uc_QuanLySanPham.Designer.cs">
+      <DependentUpon>uc_QuanLySanPham.cs</DependentUpon>
     </Compile>
     <Compile Include="uc_SanPham.cs">
       <SubType>UserControl</SubType>
@@ -124,8 +118,8 @@
     <EmbeddedResource Include="FormReport.resx">
       <DependentUpon>FormReport.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmSoLuong.resx">
-      <DependentUpon>frmSoLuong.cs</DependentUpon>
+    <EmbeddedResource Include="frmNhapSanPham.resx">
+      <DependentUpon>frmNhapSanPham.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ReportHoaDon.rdlc" />
     <EmbeddedResource Include="uc_DangNhap.resx">
@@ -145,8 +139,8 @@
     <EmbeddedResource Include="uc_NhanVienKho.resx">
       <DependentUpon>uc_NhanVienKho.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="uc_NhanVietBanHangUseButton.resx">
-      <DependentUpon>uc_NhanVietBanHangUseButton.cs</DependentUpon>
+    <EmbeddedResource Include="uc_QuanLySanPham.resx">
+      <DependentUpon>uc_QuanLySanPham.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="uc_SanPham.resx">
       <DependentUpon>uc_SanPham.cs</DependentUpon>
