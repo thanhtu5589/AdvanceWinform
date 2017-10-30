@@ -1,0 +1,10 @@
+D:\Github\DoAnWinform\DTO\bin\Debug\DTO.dll
+D:\Github\DoAnWinform\DTO\bin\Debug\DTO.pdb
+D:\Github\DoAnWinform\DTO\obj\Debug\DTO.dll
+D:\Github\DoAnWinform\DTO\obj\Debug\DTO.pdb
+D:\Github\DoAnWinform\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\DoAnWinform\DTO\bin\Debug\DTO.dll
+\\Mac\Home\Desktop\DoAnWinform\DTO\bin\Debug\DTO.pdb
+\\Mac\Home\Desktop\DoAnWinform\DTO\obj\Debug\DTO.dll
+\\Mac\Home\Desktop\DoAnWinform\DTO\obj\Debug\DTO.pdb
+\\Mac\Home\Desktop\DoAnWinform\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
