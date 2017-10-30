@@ -19,31 +19,8 @@ namespace QuanLyLinhKien
         public uc_NhanVienBanHang()
         {
             InitializeComponent();
-
-           // this.AutoSize = true;
-           // this.Dock = DockStyle.Fill;
-           //// this.Size = new Size(1614, 813);
-            this.SizeChanged +=uc_NhanVienBanHang_SizeChanged;
         }
 
-        
-
-        private void uc_NhanVienBanHang_SizeChanged(object sender, EventArgs e)
-        {
-            //ScaleMenuItem(TaoHoaDonToolStripMenuItem);
-            //ScaleMenuItem(LoaiSanPhamToolStripMenuItem);
-            //ScaleMenuItem(PhieuNhapHangToolStripMenuItem);
-            //ScaleMenuItem(DangXuatToolStripMenuItem);
-        }
-
-        private void ScaleMenuItem(ToolStripMenuItem item)
-        {
-            var ownerForm = this.FindForm();
-            if (ownerForm == null) return;
-            var itemWidth = ownerForm.Width / 5;
-            item.Size = new Size(itemWidth, item.Height);
-            //DangXuatToolStripMenuItem.Margin = new Padding(itemWidth - 40, 0, 0, 0);
-        }
         private void uc_NhanVienBanHang_Load(object sender, EventArgs e)
         {
 

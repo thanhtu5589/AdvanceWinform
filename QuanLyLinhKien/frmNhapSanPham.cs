@@ -12,12 +12,12 @@ namespace QuanLyLinhKien
 {
     public partial class frmNhapSanPham : Form
     {
+        bool NewProduct = false;
         public frmNhapSanPham()
         {
             InitializeComponent();
         }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
+        private void btnThem_Click(object sender, EventArgs e)
         {
 
         }
