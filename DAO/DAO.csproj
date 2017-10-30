@@ -42,7 +42,6 @@
     <Compile Include="clsChiTietHoaDon_DAO.cs" />
     <Compile Include="clsChiTietKhuyenMai_DAO.cs" />
     <Compile Include="clsChiTietPhieuNhapHang_DAO.cs" />
-    <Compile Include="clsChiTietPhieuXuatHang_DAO.cs" />
     <Compile Include="clsHangSanXuat_DAO.cs" />
     <Compile Include="clsHoaDon_DAO.cs" />
     <Compile Include="clsKhachHang_DAO.cs" />
@@ -53,7 +52,6 @@
     <Compile Include="clsNhaPhanPhoi_DAO.cs" />
     <Compile Include="clsPhieuGiaoHang_DAO.cs" />
     <Compile Include="clsPhieuNhapHang_DAO.cs" />
-    <Compile Include="clsPhieuXuatHang_DAO.cs" />
     <Compile Include="clsSanPham_DAO.cs" />
     <Compile Include="clsSerial_DAO.cs" />
     <Compile Include="DataProvider.cs" />

@@ -42,7 +42,6 @@
     <Compile Include="clsChiTietHoaDon_BUS.cs" />
     <Compile Include="clsChiTietKhuyenMai_BUS.cs" />
     <Compile Include="clsChiTietPhieuNhapHang_BUS.cs" />
-    <Compile Include="clsChiTietPhieuXuatHang_BUS.cs" />
     <Compile Include="clsHangSanXuat_BUS.cs" />
     <Compile Include="clsHoaDon_BUS.cs" />
     <Compile Include="clsKhachHang_BUS.cs" />
@@ -53,7 +52,6 @@
     <Compile Include="clsNhaPhanPhoi_BUS.cs" />
     <Compile Include="clsPhieuGiaoHang_BUS.cs" />
     <Compile Include="clsPhieuNhapHang_BUS.cs" />
-    <Compile Include="clsPhieuXuatHang_BUS.cs" />
     <Compile Include="clsSanPham_BUS.cs" />
     <Compile Include="clsSerial_BUS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

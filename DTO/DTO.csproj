@@ -42,7 +42,6 @@
     <Compile Include="clsChiTietHoaDon_DTO.cs" />
     <Compile Include="clsChiTietKhuyenMai_DTO.cs" />
     <Compile Include="clsChiTietPhieuNhapHang_DTO.cs" />
-    <Compile Include="clsChiTietPhieuXuatHang_DTO.cs" />
     <Compile Include="clsHangSanXuat_DTO.cs" />
     <Compile Include="clsHoaDon_DTO.cs" />
     <Compile Include="clsKhachHang_DTO.cs" />
@@ -53,7 +52,6 @@
     <Compile Include="clsNhaPhanPhoi_DTO.cs" />
     <Compile Include="clsPhieuGiaoHang_DTO.cs" />
     <Compile Include="clsPhieuNhapHang_DTO.cs" />
-    <Compile Include="clsPhieuXuatHang_DTO.cs" />
     <Compile Include="clsSanPham_DTO.cs" />
     <Compile Include="clsSerial_DTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

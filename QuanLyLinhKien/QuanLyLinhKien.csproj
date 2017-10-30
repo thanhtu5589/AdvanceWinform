@@ -109,12 +109,6 @@
     <Compile Include="uc_QuanLySanPham.Designer.cs">
       <DependentUpon>uc_QuanLySanPham.cs</DependentUpon>
     </Compile>
-    <Compile Include="uc_SanPham.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="uc_SanPham.Designer.cs">
-      <DependentUpon>uc_SanPham.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="FormReport.resx">
       <DependentUpon>FormReport.cs</DependentUpon>
     </EmbeddedResource>
@@ -141,9 +135,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="uc_QuanLySanPham.resx">
       <DependentUpon>uc_QuanLySanPham.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="uc_SanPham.resx">
-      <DependentUpon>uc_SanPham.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
